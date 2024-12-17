@@ -1,0 +1,36 @@
+# Dummy YAML example
+
+person:
+  name: Hamza 
+  age: 30
+  address:
+    street: 123 Elm St
+    city: Springfield
+    postal_code: 12345
+  hobbies:
+    - reading
+    - hiking
+    - cooking
+  is_active: true
+
+products:
+  - id: 001
+    name: Widget
+    price: 19.99
+    in_stock: true
+    categories:
+      - Electronics
+      - Gadgets
+  - id: 002
+    name: GadgetPro
+    price: 99.99
+    in_stock: false
+    categories:
+      - Electronics
+      - Tools
+
+settings:
+  theme: dark
+  notifications: true
+  language: en-US
+
